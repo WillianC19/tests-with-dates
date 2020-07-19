@@ -16,6 +16,10 @@ public class TestsWithDates {
 		int years = p.getYears();
 		int months = p.getMonths();
 		int days = p.getDays();
+
+		//Exemeplo de OffsetDateTime
+		//OffsetDateTime data = OffsetDateTime.parse("2020-08-02T08:57:00.000+02:00");
+
 		
 		String dataNasc = "12/10/1990 08:30";
 		LocalDateTime ld1 = LocalDateTime.parse(dataNasc, DateTimeFormatter.ofPattern("dd/MM/yyyy HH:mm"));
