@@ -32,7 +32,7 @@ public class TestsWithDates {
 						  "Horas : " + ChronoUnit.HOURS.between(ld1, LocalDateTime.now()),
 						  "Minutos : " + ChronoUnit.MINUTES.between(ld1, LocalDateTime.now()),
 						  "Segundos : " + ChronoUnit.SECONDS.between(ld1, LocalDateTime.now()),
-						  "Tempo total : " + years + " anos - " + months + " meses - " + days + " dias");
+						  "Tempo total de vida : " + years + " anos - " + months + " meses - " + days + " dias");
 		
 	}
 }
