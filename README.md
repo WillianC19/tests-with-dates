@@ -1,3 +1,3 @@
 # tests-with-dates
 
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://avatars2.githubusercontent.com/u/66984992?s=400&u=6373aeb589f32f189c340a83ac1a59c1286398e5&v=4.png">
